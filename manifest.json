@@ -1,0 +1,15 @@
+{
+  "name": "Mouse Remote PRO",
+  "short_name": "Mouse PRO",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#222222",
+  "theme_color": "#ff9800",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
